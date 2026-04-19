@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\TallerSeccionA\TallerPractico01\TallerPractico01\bin\Debug\TallerPractico01.exe
+C:\Users\Usuario\Documents\TallerSeccionA\TallerPractico01\TallerPractico01\bin\Debug\TallerPractico01.pdb
+C:\Users\Usuario\Documents\TallerSeccionA\TallerPractico01\TallerPractico01\obj\Debug\TallerPractico01.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\TallerSeccionA\TallerPractico01\TallerPractico01\obj\Debug\TallerPractico01.exe
+C:\Users\Usuario\Documents\TallerSeccionA\TallerPractico01\TallerPractico01\obj\Debug\TallerPractico01.pdb
+C:\Users\rafae\OneDrive\Documentos\TallerPracticoCsharp-main\TallerPractico01\TallerPractico01\obj\Debug\TallerPractico01.csprojResolveAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\TallerPracticoCsharp-main\TallerPractico01\TallerPractico01\obj\Debug\TallerPractico01.exe
+C:\Users\rafae\OneDrive\Documentos\TallerPracticoCsharp-main\TallerPractico01\TallerPractico01\bin\Debug\TallerPractico01.exe
+C:\Users\rafae\OneDrive\Documentos\TallerPracticoCsharp-main\TallerPractico01\TallerPractico01\bin\Debug\TallerPractico01.pdb
+C:\Users\rafae\OneDrive\Documentos\TallerPracticoCsharp-main\TallerPractico01\TallerPractico01\obj\Debug\TallerPractico01.pdb
